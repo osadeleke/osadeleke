@@ -39,7 +39,8 @@ What drives me is the ability to transform ideas into functional, elegant code a
 
 Feel free to connect with me or reach out for opportunities and collaborations!
 
-- **LinkedIn:** [Olusegun Adeleke](https://linkedin.com/in/thesegunadeleke)
+- <a href="https://twitter.com/oxsegun" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <br />
+- <a href="https://www.linkedin.com/in/thesegunadeleke" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 - **Email:** [oadeleke123@gmail.com](mailto:oadeleke123@gmail.com)
 
 Thank you for visiting my profile!
